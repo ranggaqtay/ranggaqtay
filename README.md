@@ -1,4 +1,4 @@
-<h2> Halo Let me introduce,  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Halo  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 😄 <b>My Name Rangga Aditya Nugraha</b> <br>
 
