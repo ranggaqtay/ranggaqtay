@@ -1,6 +1,4 @@
-<h2> Halo  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-
-😄 <b>My Name Rangga Aditya Nugraha</b> <br>
+<h2> Halo  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> 😄 <b>My Name Rangga Aditya Nugraha</b> <br>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ranggaqtay&show_icons=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranggaqtay&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
