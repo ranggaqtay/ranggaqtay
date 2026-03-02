@@ -1,7 +1,6 @@
 <h2> Halo, My Name Rangga Aditya Nugraha </h2> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ranggaqtay&show_icons=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranggaqtay&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
+(https://github.com/anuraghazra/github-readme-stats) <br> <br>
 ##### Languages I use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
