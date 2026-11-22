@@ -82,5 +82,3 @@ Informatics graduate from Telkom University with a focus on **Data Science & Mac
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ranggaqtay&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranggaqtay&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
-
-<img src="https://streak-stats.demolab.com?user=ranggaqtay&theme=github-dark-blue&hide_border=true" />
