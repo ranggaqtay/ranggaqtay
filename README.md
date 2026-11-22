@@ -1,6 +1,6 @@
 <h2>Hi, I'm Rangga Aditya Nugraha <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="28px"></h2>
 
-**Data Engineer · Full Stack Web Developer · Industrial Engineer** at DX DENSO Indonesia
+**Data Engineer · Full Stack Web Developer · Industrial Engineer** at PT DENSO Indonesia
 
 Informatics graduate from Telkom University with a focus on **Data Science & Machine Learning**. I build data pipelines, internal web apps, and digital tools that turn manual processes and shop-floor data into real improvement.
 
